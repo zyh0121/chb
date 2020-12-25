@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="back_button" type="id" />
+    <item name="list_view" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="nav_button" type="id" />
+    <item name="swipe_regresh" type="id" />
+    <item name="bing_pic_img" type="id" />
+    <item name="swipe_refresh" type="id" />
+</resources>
